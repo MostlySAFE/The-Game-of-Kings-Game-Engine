@@ -6,12 +6,12 @@ No licenses, no royalties, no dragons. Just pure, remixable power.
 
 # Why TGoKGE? The Revolution in a Rulebook.
 Public Domain Liberation: CC0-dedicated 2023 (v1.0), updated through 2025 (v1.3 stability tweaks).
-216 System mechanics based on rolling 1d6 "To Hit", "Armor Save", & "To Wound", break tests, and Special Rules. Yours to copy, adapt, and build your own universe - even for commercial use.
+216 System mechanics based on rolling 1d6 "To Hit", "Armor Save", & "To Wound", 1d12 break tests, spike probabilities, bound bonuses,, and Special Rules. Yours to copy, adapt, and build your own universe - even for commercial use.
 Flavor? Bolt on your Lore based on Beowulf orcs, Norse jotnar, or cyber-zombies - all from our Appendix of PD roots.
 No infringement fears. These are ideas unleashed, per the 1976 Copyright Act. 
 
 # Proven Balance & Timeless Mechanics.
-Compiled from Kriegsliel's umpires to Featherstone’s point systems, this engine nails tactical depth without bloat. Mini-agnostic (25mmm to 54mm, 3D Print friendly).
+Compiled from Kriegspiel's umpires to Featherstone’s point systems, this engine nails tactical depth without bloat. Mini-agnostic (25mmm to 54mm, 3D Print friendly).
 Core Loop: Move, Science, Shoot, Assault with 216 System resolution. Playtested for emergent chaos: hordes scatter when morale fails, heroes hold the band together.
 Stable, scalable, and screams "fair fight" from skirmish to epic battles. 
 
