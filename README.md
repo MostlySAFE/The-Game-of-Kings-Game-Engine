@@ -20,7 +20,7 @@ Not just rules- a manifesto tracing Chaturanga dice to Moltke’s staff rides. L
 Wells dreamed of umpire-free games; we're making it real for creators dodging OGL's pitfalls and ORC's fine print. 
 This is your neutral ground.
 
-Grab your v1.3 LDF/source docs here. Fork on GitHub, jam on ich.io - prototype a Lich ambush or Jetan variant. 
+Grab your v1.3 PDF/source docs here. Fork on GitHub, jam on itch.io - prototype a Lich ambush or Jetan variant. 
 Publishers: point-buy armies for commercial drops.
 Hobbyists: kitbash with Reaper or PLA.
 We're MostlySAFE LLC, but you're the Vanguard. As Tony Bath said, "Your tastes and fancies are the only rules."
