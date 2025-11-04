@@ -6,7 +6,7 @@ No licenses, no royalties, no dragons. Just pure, remixable power.
 
 # Why TGoKGE? The Revolution in a Rulebook.
 Public Domain Liberation: CC0-dedicated 2023 (v1.0), updated through 2025 (v1.3 stability tweaks).
-216 System mechanics based on rolling 1d6 "To Hit", "Armor Save", & "To Wound", 1d12 break tests, spike probabilities, bound bonuses,, and Special Rules. Yours to copy, adapt, and build your own universe - even for commercial use.
+216 System mechanics based on rolling 1d6 "To Hit", "Armor Save", & "To Wound", 1d12 break tests, spike probabilities, bound bonuses, and Special Rules. Yours to copy, adapt, and build your own universe - even for commercial use.
 Flavor? Bolt on your Lore based on Beowulf orcs, Norse jotnar, or cyber-zombies - all from our Appendix of PD roots.
 No infringement fears. These are ideas unleashed, per the 1976 Copyright Act. 
 
@@ -26,7 +26,7 @@ Hobbyists: kitbash with Reaper or PLA.
 We're MostlySAFE LLC, but you're the Vanguard. As Tony Bath said, "Your tastes and fancies are the only rules."
 
 # Download. Adapt. Rule.
-May your tables echo with clashing minis and lasting legends.
+May your tables echo with clashing minis and lasting legends. Godspeed - build the haven we deserve. 
 Dedicated to the Beneficent. That which is good for the earth: remains.
 (CC0 1.0 Universal)
 
